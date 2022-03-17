@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543028140738",
+    "project_id": "sachat-d7d8e",
+    "storage_bucket": "sachat-d7d8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543028140738:android:2790e24b1488efe98bf95b",
+        "android_client_info": {
+          "package_name": "com.atinc.sachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543028140738-mt5hm9322jo89buolomu1gsvs3qbiiru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPIaHulZgUfJw1dMeK9RjnjwzYRbIftQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543028140738-mt5hm9322jo89buolomu1gsvs3qbiiru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
