@@ -1,4 +1,4 @@
-package com.example.sachat
+package com.atinc.sachat
 
 import io.flutter.embedding.android.FlutterActivity
 
