@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:sachat/screens/chat_screen.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(const MyApp());
 }
