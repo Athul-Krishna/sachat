@@ -37,6 +37,7 @@ class _ChatScreenState extends State<ChatScreen> {
         title: const Text('Sachat'),
         actions: [
           DropdownButton(
+            underline: Container(),
             items: [
               DropdownMenuItem(
                 child: Container(
